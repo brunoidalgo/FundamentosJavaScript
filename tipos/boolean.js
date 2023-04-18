@@ -1,6 +1,6 @@
 const textoUm = '112233'
 
-const textoDois = '223344'
+const textoDois = '22334455'
 
 const senha = textoUm;
 

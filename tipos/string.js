@@ -1,6 +1,6 @@
 const textoUm = 'Bruno ';
 
-const textoDois = 'Empke';
+const textoDois = 'Empke Idalgo';
 
 const nome = textoUm + textoDois;
 
