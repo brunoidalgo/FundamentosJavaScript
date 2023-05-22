@@ -1,4 +1,4 @@
-// Operador ternário 
+// if clássico
 
 const idadeMinima = 18;
 idadeCliente = 19;
